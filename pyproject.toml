@@ -1,0 +1,16 @@
+[project]
+name = "data-practice"
+version = "0.1.0"
+description = "Small experiments in data science."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "ipywidgets>=8.1.7",
+    "jupyter>=1.1.1",
+    "kagglehub>=0.3.12",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+]
